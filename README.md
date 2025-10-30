@@ -1,6 +1,6 @@
 # The-Unsubscribe-Problem
 
-This project analyzes email campaign performance to understand engagement patterns (open rate, click rate) and uncover factors contributing to high unsubscribe rates. Using SQL, Power BI, and data storytelling, the analysis highlights where and why engagement drops — and recommends actionable strategies for improvement.
+This project analyzes email campaign performance to understand engagement patterns (open rate, click rate) and uncover factors contributing to high unsubscribe rates. Using SQL, Power BI, and data storytelling, the analysis highlights where and why engagement drops and recommends actionable strategies for improvement.
 
 🔍 Key Objectives
 
@@ -17,12 +17,13 @@ Provide recommendations to optimize email strategy.
 SQL: For data cleaning and aggregation.
 
 Power BI: For dashboarding and visualization.
-
-Excel / Python (optional): For initial EDA and data formatting.
+PowerPoint: For Summarzing Key Findings and creating presentation for stakeholders.
 
 📊 Key Insights
 
-Overall engagement rates (Open 59–60%) are consistent across categories.
+Overall open & click rates (Open 59–60%) (Click rate 17-19%) are consistent across categories.
+
+Unsubscriber rate is very high approx 5.05%. It should be less than 1%.
 
 Newsletter category drives the highest raw unsubscribes (506).
 
